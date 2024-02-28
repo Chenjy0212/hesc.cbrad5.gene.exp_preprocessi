@@ -1,6 +1,6 @@
-# mDELTA: an algorithm for *m*ultifuricating *D*evelopmental c*E*ll *L*ineage *T*ree *A*lignment.
+# mDELTA_prepro: Preprocess real data for quantitative and qualitative file options in mdelta input
 
-<a href="https://github.com/Chenjy0212/mdelta_full/blob/main/image/mDELTA.png"><img src="./image/mDELTA.png" height="500" align="right" /></a>
+<a href="https://github.com/Chenjy0212/mdelta_full/blob/main/image/mDELTA.png"><img src="prepro.png" height="500" align="right" /></a>
 
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/DecryptLogin?logo=python&labelColor=white)](https://pypi.org/project/mdelta/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-ffffff?logo=jupyter)](https://jupyter.org/)
