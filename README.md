@@ -6,3 +6,4 @@
 [![Jupyter](https://img.shields.io/badge/-Jupyter-ffffff?logo=jupyter)](https://jupyter.org/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chenjy0212&repo=mdelta_prepro)](https://github.com/Chenjy0212/mdelta_prepro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chenjy0212&repo=mdelta_full)](https://github.com/Chenjy0212/mdelta_full)
